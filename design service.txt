@@ -1,0 +1,7 @@
+database:
+	UID,
+	member, หลายคน
+	arduinoID, 1 อัน
+	electricDoorState, ทุกๆ 5 นาทีส่งสถานะ 
+
+setting:
